@@ -34,6 +34,7 @@ span {
     color: var(--transparent-white);
     line-height: 200%;
     max-width: 90%;
+    padding-bottom: 30px;
 }
 .card{
     width: 33%;
